@@ -1,0 +1,6 @@
+﻿  recurrencecounter.cpp
+C:\Users\nikol\Desktop\Vjezba 4\Zadatak1\Zadatak1\recurrencecounter.cpp(5,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nikol\Desktop\Vjezba 4\Zadatak1\Zadatak1\recurrencecounter.cpp(9,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Zadatak1.vcxproj -> C:\Users\nikol\Desktop\Vjezba 4\Zadatak1\x64\Debug\Zadatak1.exe
